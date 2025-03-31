@@ -8,9 +8,11 @@
 */
 
 #include <WiFi.h>
+//#include <stdlib.h>
 #include <WiFiClient.h>
 #include <WebServer.h>
 #include <uri/UriBraces.h>
+
 
 #define WIFI_SSID "Wokwi-GUEST"
 #define WIFI_PASSWORD ""
